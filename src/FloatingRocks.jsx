@@ -9,8 +9,8 @@ export default function FloatingRocks() {
     return (
         <>
             <primitive object={rock1.scene} position={[-10.5, 6, -10]}/>
-            <primitive object={rock2.scene} position={[5, 10, -10]}/>
-            <primitive object={rock3.scene} position={[10, 3.5, 9]}/>
+            <primitive object={rock2.scene} position={[5, 10, -15]}/>
+            <primitive object={rock3.scene} position={[8, 3.5, 9]}/>
         </>
     )
 }
