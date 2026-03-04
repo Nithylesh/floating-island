@@ -9,8 +9,12 @@ import Words from './Words';
 import Grass from './Grass';
 import { Float } from '@react-three/drei';
 function App() {
-    return <Canvas>
-        // double check if this should be inside <SceneContainer/>
+    return <Canvas
+        gl={{
+            stencil: true
+        }}>
+        // double check if this should be inside 
+        <SceneContainer/>
         <Float 
         speed={0.5} 
         rotationIntensity={0.6} 
