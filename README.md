@@ -28,3 +28,5 @@ This project is an experimental playground for learning and testing:
 
 ```bash
 npm install
+
+i mostly followed tutorial from this yt channel Irradiance
