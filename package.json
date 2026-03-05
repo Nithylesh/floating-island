@@ -2,7 +2,7 @@
   "name": "floating-island",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://Nithylesh.github.io/floating-island",
   "dependencies": {
     "@react-three/drei": "^9.88.0",
     "@react-three/fiber": "^8.15.12",
